@@ -1,0 +1,10 @@
+com.pfc.android.archcomponent.adapters
+com.pfc.android.archcomponent.api
+com.pfc.android.archcomponent.db
+com.pfc.android.archcomponent.di
+com.pfc.android.archcomponent.model
+com.pfc.android.archcomponent.repository
+com.pfc.android.archcomponent.ui
+com.pfc.android.archcomponent.util
+com.pfc.android.archcomponent.viewmodel
+com.pfc.android.archcomponent.vo
